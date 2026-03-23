@@ -1,0 +1,49 @@
+rank,symbol,company_name,current_price,change_percent,volume,turnover,market,quote_currency,source_url,crawl_timestamp
+1,NVDA,NVIDIA Corporation,172.7,-3.28,241320000.0,41680000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+2,TSLA,"Tesla, Inc.",367.96,-3.24,78620000.0,28930000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+3,MU,"Micron Technology, Inc.",422.9,-4.81,64220000.0,27160000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+4,AAPL,Apple Inc.,247.99,-0.39,88330000.0,21910000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+5,MSFT,Microsoft Corporation,381.87,-1.84,50850000.0,19420000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+6,SNDK,Sandisk Corporation,709.71,-8.08,23510000.0,16680000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+7,LITE,Lumentum Holdings Inc.,706.35,-8.52,22870000.0,16149999999.999998,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+8,AVGO,Broadcom Inc.,310.51,-2.92,43330000.0,13450000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+9,AMZN,"Amazon.com, Inc.",205.37,-1.62,63690000.0,13080000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+10,META,"Meta Platforms, Inc.",593.66,-2.15,21210000.0,12590000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+11,GOOG,Alphabet Inc.,298.79,-2.27,34760000.0,10390000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+12,QCOM,QUALCOMM Incorporated,129.9,-1.05,78570000.0,10210000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+13,AMD,"Advanced Micro Devices, Inc.",201.33,-1.92,37270000.0,7500000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+14,PLTR,Palantir Technologies Inc.,150.68,-3.21,48700000.0,7340000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+15,INTC,Intel Corporation,43.87,-5.0,162810000.0,7140000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+16,CMCSA,Comcast Corporation,29.02,0.14,246110000.0,7140000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+17,CSCO,"Cisco Systems, Inc.",77.65,-1.1,90380000.0,7020000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+18,WMT,Walmart Inc.,119.02,-1.71,57550000.0,6850000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+19,AMAT,"Applied Materials, Inc.",357.06,-0.04,17590000.0,6280000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+20,LRCX,Lam Research Corporation,228.36,-2.41,26180000.0,5980000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+21,NFLX,"Netflix, Inc.",91.82,0.09,61680000.0,5660000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+22,SATS,EchoStar Corporation,109.84,0.67,49310000.0,5420000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+23,SMCI,"Super Micro Computer, Inc.",20.53,-33.32,242950000.0,4990000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+24,ADP,"Automatic Data Processing, Inc.",208.69,-0.94,19080000.0,3980000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+25,MSTR,Strategy Inc,135.66,-1.87,28570000.0,3880000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+26,WDC,Western Digital Corporation,293.1,-7.52,12880000.0,3770000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+27,CRWD,"CrowdStrike Holdings, Inc.",409.0,-4.48,9110000.0,3730000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+28,STX,Seagate Technology Holdings PLC,411.23,-5.38,8620000.0,3540000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+29,KLAC,KLA Corporation,1498.67,-0.85,2190000.0,3280000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+30,AMGN,Amgen Inc.,347.8,-0.61,9170000.0,3190000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+31,LIN,Linde plc,488.15,-0.34,6330000.0,3090000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+32,TMUS,"T-Mobile US, Inc.",208.47,0.91,13800000.0,2880000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+33,TXN,Texas Instruments Incorporated,187.19,-0.58,15030000.0,2810000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+34,PANW,"Palo Alto Networks, Inc.",162.95,-4.0,16460000.0,2680000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+35,COIN,"Coinbase Global, Inc.",197.5,-2.67,13310000.0,2630000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+36,ADBE,Adobe Inc.,248.15,0.88,10470000.0,2600000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+37,COST,Costco Wholesale Corporation,972.33,-0.25,2620000.0,2550000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+38,HOOD,"Robinhood Markets, Inc.",70.89,-4.41,34440000.0,2440000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+39,CRWV,"CoreWeave, Inc.",81.47,1.0,29380000.0,2390000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+40,MTCH,"Match Group, Inc.",31.06,-1.3,76580000.0,2380000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+41,RKLB,Rocket Lab Corporation,67.23,-6.53,35250000.0,2370000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+42,EXAS,Exact Sciences Corporation,104.91,0.95,21560000.0,2260000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+43,MRVL,"Marvell Technology, Inc.",87.91,-1.81,25570000.0,2250000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+44,ADI,"Analog Devices, Inc.",309.43,-0.33,7030000.0,2180000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+45,PEP,"PepsiCo, Inc.",150.04,-1.77,14480000.0,2170000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+46,INTU,Intuit Inc.,455.56,0.07,4720000.0,2150000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+47,GILD,"Gilead Sciences, Inc.",137.21,-2.76,15520000.0,2130000000.0,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49
+48,APP,Applovin Corporation,442.39,0.56,4770000.0,2109999999.9999998,NASDAQ,USD,https://www.tradingview.com/markets/stocks-usa/market-movers-active/,2026-03-23T18:49:49

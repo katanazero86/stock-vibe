@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-03-23T18:27:29",
+    "status": "success",
+    "rows": 50
+  },
+  {
+    "timestamp": "2026-03-23T18:31:00",
+    "status": "success",
+    "rows": 50
+  },
+  {
+    "timestamp": "2026-03-23T18:33:27",
+    "status": "success",
+    "rows": 50
+  },
+  {
+    "timestamp": "2026-03-23T18:50:01",
+    "status": "success",
+    "rows": 32
+  },
+  {
+    "timestamp": "2026-03-23T18:53:15",
+    "status": "success",
+    "rows": 32
+  }
+]
